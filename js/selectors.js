@@ -1,3 +1,3 @@
 // declare your functions here...
-var paragraphSelector
+var paragraphSelector()
 $("p")
