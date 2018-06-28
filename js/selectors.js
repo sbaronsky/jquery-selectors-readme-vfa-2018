@@ -1,2 +1,3 @@
 // declare your functions here...
-var paragraphSelector = $(p)
+function paragraphSelector()
+return= $(p)
